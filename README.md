@@ -1,12 +1,10 @@
 <h1 align="center">
-    <img alt="gofinances" title="gofinances" src=".github/GoFinance/src/assets/logo.svg" width="300px" />
+    <img alt="gofinances" title="gofinances" src="https://github.com/EzequielPires/GoFinance/blob/master/src/assets/logo.svg" width="300px" />
 </h1>
 
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -41,10 +39,8 @@
 
 ## :computer: Projeto
 
-Essa é uma aplicação de finanças que encontra-se em desenvolvimento. Ela lista transações financeiras de entrada e saída, permitindo o upload de novas transações através da importação de arquivos CSV.
-Este é um projeto de próposito didático que está sendo desenvolvido durante o Bootcamp GoStack 11 da [Rocketseat](https://rocketseat.com.br/).
-
-O arquivo CSV para imporação de transações deve seguir este [modelo](.github/file.csv).
+Essa é uma aplicação para controle de finanças. Através do GoFinance você poderá criar, listar, controlar suas transações.
+Este é um projeto de próposito didático que está sendo desenvolvido durante o Ignite da [Rocketseat](https://rocketseat.com.br/).
 
 <br/>
 
@@ -52,39 +48,9 @@ O arquivo CSV para imporação de transações deve seguir este [modelo](.github
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Front-end
-- [ReactJS](https://github.com/facebook/react)
+- [React Native](https://github.com/facebook/react)
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [styled-components](https://github.com/styled-components/styled-components)
-- [axios](https://github.com/axios/axios)
-- [ESLint](https://github.com/eslint/eslint)
-- [Prettier](https://github.com/prettier/prettier)
-
-#### Back-end
-
-- [Node.js](https://nodejs.org/en)
-- [TypeScript](https://github.com/microsoft/TypeScript)
-- [Express](https://github.com/expressjs/express)
-- [TypeORM](https://github.com/typeorm/typeorm)
-- [ESLint](https://github.com/eslint/eslint)
-- [Prettier](https://github.com/prettier/prettier)
-
-<br/>
-
-## :art: Layout
-
-O layout pode ser acessado através da página do Figma, [neste link](https://www.figma.com/file/VgK3hsmyGbqiGu9FdqfUzF/GoMarketplace?node-id=0%3A1).
-Você precisará uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
-
-<br/>
-
-## :thinking: Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 <br/>
 
