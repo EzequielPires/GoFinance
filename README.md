@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="gofinances" title="gofinances" src=".github/logo.svg" width="300px" />
+    <img alt="gofinances" title="gofinances" src=".github/GoFinance/src/assets/logo.svg" width="300px" />
 </h1>
 
 <p align="center">
@@ -150,7 +150,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Made with :black_heart: by Diziano
+Made with :black_heart: by Ezequiel Pires
 
 <br/>
 
