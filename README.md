@@ -45,12 +45,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/diziano/gofinances.git
+    $ git clone https://github.com/EzequielPires/GoFinance
 
     # Navegar para o diretório
     $ cd gofinances
-
-#### Front-end
 
 ```bash
 
