@@ -49,9 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
     # Navegar para o diretório
     $ cd GoFinance
-
-```bash
-
+    
     # instalar as dependências
     $ yarn
 
