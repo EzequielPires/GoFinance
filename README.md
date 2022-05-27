@@ -5,28 +5,13 @@
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#gear-como-executar">Como executar</a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/gofinances?style=flat-square">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Diziano/gofinances?style=flat-square">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Diziano/gofinances?style=flat-square">
-
-  <a href="https://github.com/Diziano/gofinances/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diziano/gofinances?style=flat-square">
-  </a>
-
-  <a href="https://github.com/Diziano/gofinances/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Diziano/gofinances?style=flat-square">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/Diziano/gofinances?style=flat-square">
+  <img alt="GitHub" src="https://github.com/EzequielPires/GoFinance/blob/master/gofinance.jpg">
 </p>
 
 <br/>
@@ -77,19 +62,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    
 ```
 
-<br/>
-
-## :memo: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
 Made with :black_heart: by Ezequiel Pires
-
-<br/>
-
-<p align="right">
-  <img alt="GoStack" title="GoStack" src=".github/gostack.svg" width="60px" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GoStack" title="RocketSeat" src=".github/rocketseat.svg" width="200px" />
-</p>
