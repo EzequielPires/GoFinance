@@ -65,33 +65,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     # Navegar para o diretório
     $ cd gofinances
 
-```
-#### Back-end
-
-- No arquivo [ormconfig.json](ormconfig.json) configure os parâmetros de acesso ao banco de dados (username, password e database);
-
-- No arquivo [src/database/index.jsormconfig.json](src/database/index.jsormconfig.json) o nome do banco de dados dos testes (gofinances_tests);
-
-- Para alterações do banco de dados aconselha-se utilizar a CLI do TypeORM: <code>yarn typeorm {seu comando}</code>. Confira a documentação [aqui](https://typeorm.io/).
-
-```bash
-
-    # Instalar as dependências
-    $ yarn
-    
-    # Executar migrations para criação das tabelas nas base de dados
-    $ yarn typeorm migration:run
-
-    # Iniciar o projeto
-    $ yarn start
-    
-    # Iniciar o projeto em desenvolvimento
-    $ yarn dev:server
-    
-    # Executar testes
-    $ yarn test
-```
-
 #### Front-end
 
 ```bash
@@ -100,13 +73,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     $ yarn
 
     # Iniciar o projeto
-    $ yarn start
+    $ expo start
    
-    # Executar testes
-    $ yarn test
-    
-    # Executar build
-    $ yarn build
 ```
 
 <br/>
