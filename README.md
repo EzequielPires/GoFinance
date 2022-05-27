@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     $ git clone https://github.com/EzequielPires/GoFinance
 
     # Navegar para o diretório
-    $ cd gofinances
+    $ cd GoFinance
 
 ```bash
 
