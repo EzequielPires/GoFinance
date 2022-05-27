@@ -24,7 +24,7 @@
 
 ## :computer: Projeto
 
-Essa é uma aplicação para controle de finanças. Através do GoFinance você poderá criar, listar, controlar suas transações.
+Essa é uma aplicação para controle de finanças. Através do GoFinance você poderá criar, listar e controlar suas transações.
 Este é um projeto de próposito didático que está sendo desenvolvido durante o Ignite da [Rocketseat](https://rocketseat.com.br/).
 
 <br/>
